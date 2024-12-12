@@ -176,6 +176,16 @@ function agregarContenido(articuloId, producto) {
   });  
 }  
 
+// ---------------
+
+
+let cantidadProductos = 0;  
+
+function agregarAlCarrito() {  
+    cantidadProductos++;  
+    document.querySelector('.indice-carrito').textContent = cantidadProductos;  
+}  
+
 // ------------  
 
 // Al cargar la página, mostrar el carrito  
@@ -286,6 +296,7 @@ function actualizarResumen(totalCantidad, subtotal) {
     document.getElementById('total').textContent = `$${total.toFixed(2)}`;  
 }  
 // -------------------
+
 
 function validateForm() {  
   // Limpiar mensajes de error  

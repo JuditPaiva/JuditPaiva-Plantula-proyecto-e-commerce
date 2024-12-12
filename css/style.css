@@ -644,10 +644,30 @@ form input {
 
 /* Carrito de compras-------------------------------------------------------------- */
 
+
+#carrito-icon {  
+    position: relative;  
+    display: inline-block;  
+}  
+
+.indice-carrito {  
+    position: absolute;  
+    right: 25px;  
+    background-color: red;  
+    color: white;  
+    border-radius: 50%;  
+    width: 20px;  
+    height: 20px;  
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+}  
+
 .error-carrito{
     font-family: var(--font-alternativa);
     font-size: var(--font-20);
-    color:#265118
+    font-weight: 600;
+    color:#ec8209;   
 }
 .carrito {
     display: grid;
@@ -1861,6 +1881,13 @@ input {
     /* fin del responsive-reseña */
 
     /* responsive-Carrito de compras-------------------------------------------------------------- */
+    
+    .indice-carrito {
+         bottom:8px;  
+         right: 14px;
+    }   
+    
+    
     h4 {
         font-size: var(--font-14);
     }
@@ -2540,6 +2567,11 @@ input {
     /* fin del responsive-reseña */
 
     /* responsive-carrito de compras-------------------------------------------------- */
+    .indice-carrito {
+        bottom:8px;  
+        right: 14px;
+   }   
+    
     h4 {
         font-size: var(--font-12);
     }
