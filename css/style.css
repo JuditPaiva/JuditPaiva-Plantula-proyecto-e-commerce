@@ -643,6 +643,12 @@ form input {
 /* fin de reseña */
 
 /* Carrito de compras-------------------------------------------------------------- */
+
+.error-carrito{
+    font-family: var(--font-alternativa);
+    font-size: var(--font-20);
+    color:#265118
+}
 .carrito {
     display: grid;
     grid-template-columns: repeat(12, 1fr);

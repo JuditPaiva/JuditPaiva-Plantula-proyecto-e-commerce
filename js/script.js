@@ -211,7 +211,7 @@ function mostrarCarrito() {
     let subtotal = 0;  
 
     if (carrito.length === 0) {  
-        cartList.innerHTML = '<p>El carrito está vacío.</p>';  
+        cartList.innerHTML = '<p class= "error-carrito">El carrito está vacío.</p>';  
         actualizarResumen(0, 0);  
         return;   
     }  
