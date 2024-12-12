@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "nombre": "Croton",
+      "precio": 400,
+      "imagen": "card-1.com.png",
+      "descripcion":
+        "Estas plantas son originarias principalmente del sur de la India,",
+      "categoria": "Interior",
+      "stock": 15
+    },
+  
+    {
+      "id": 2,
+      "nombre": "Cactus",
+      "precio": 500,
+      "imagen": "card-2.com.png",
+      "descripcion":
+        "Los cactus son plantas que se caracterizan por soportar temperaturas y almacenar agua",
+      "categoria": "Exterior",
+      "stock": 7
+    },
+  
+    {
+      "id": 3,
+      "nombre": "Violeta",
+      "precio": 850,
+      "imagen": "card-3.com.png",
+      "descripcion":
+        "Estas son ideales para dar vida a cualquier rincón de tu hogar.",
+      "categoria": "Exterior",
+      "stock": 20
+    },
+  
+    {
+      "id": 4,
+      "nombre": "Dieffenbachia",
+      "precio": 900,
+      "imagen": "card-4.com.png",
+      "descripcion": "La diefembaquia es una especie nativa del sur de México,",
+      "categoria": "Interior",
+      "stock": 50
+    },
+  
+    {
+      "id": 5,
+      "nombre": "Violeta de los alpes",
+      "precio": 500,
+      "imagen": "card-5.com.png",
+      "descripcion":
+        "Esta planta brota en otoño y florece durante el invierno y la primavera",
+      "categoria": "Exterior",
+      "stock": 5
+    },
+  
+    {
+      "id": 6,
+      "nombre": "Potus",
+      "precio": 2000,
+      "imagen": "card-6.com.png",
+      "descripcion":
+        "Planta de interior que se caracteriza por su follaje variegado",
+      "categoria": "Interior",
+      "stock": 21
+    },
+  
+    {
+      "id": 7,
+      "nombre": "Suculentas",
+      "precio": 1000,
+      "imagen": "card-7.com.png",
+      "descripcion":
+        "Las suculentas son plantas que se adaptan a diferentes climas",
+      "categoria": "Exterior",
+      "stock": 15
+    },
+  
+    {
+      "id": 8,
+      "nombre": "Hortensias",
+      "precio": 4000,
+      "imagen": "card-8.com.png",
+      "descripcion": "Plantas ornamentales nativas del sur y este de Asia",
+      "categoria": "Exterior",
+      "stock": 12
+    },
+  
+    {
+      "id": 9,
+      "nombre": "Jazmin",
+      "precio": 3000,
+      "imagen": "card-9.com.png",
+      "descripcion": "Árbol es nativo del oeste de África.",
+      "categoria": "Exterior",
+      "stock": 20
+    }
+  ]
