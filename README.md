@@ -1,8 +1,12 @@
-# Plántula (proyecto e-commerce)
+# Plántula By Judit Paiva (Comisión 24226)
 
-## Judit Paiva (Comisión 24226)
+### ¡Bienvenido a Plántula! Este es un proyecto de e-commerce que permite a los usuarios explorar productos, novedades, realizar pedidos, ver y dejar reseñas, navegar por nuestras redes, saber quienes somos, donde estamos y contactarnos.  
 
-¡Bienvenido plántula! Este es un proyecto de e-commerce que permite a los usuarios explorar productos, novedades, realizar pedidos, ver y dejar reseñas, navegar por nuestras redes, saber quienes somos, donde estamos y contactarnos.  
+![Plántula-mobile](./img/plantula-mobile.png)
+![Plántula-tablet](./img/plantula-tablet.png)
+![Plantula-desktop](./img/Plantula-desktop.png)
+
+
 
 ### Características   
 
@@ -26,4 +30,11 @@
 - Unificar todo lo relacionado con el diseño en un solo documento
 - Reducir la duplicación de estilos
 - Descargar páginas más rápido
-- Crear versiones diferentes para distintos dispositivos mediante los Media query.# JuditPaiva-Plantula-proyecto-e-commerce
+- Crear versiones diferentes para distintos dispositivos mediante los Media query.
+
+#### Js ( crea contenido dinámico y mejora la interactividad en el sitio web.)
+- Manipular el DOM (Document Object Model) junto con HTML y CSS. Actualizar el contenido de la página en tiempo real sin necesidad de recargar.
+- Crear contenido dinámico, como animaciones, transiciones, validaciones y eventos.
+- Interactuar con el usuario mediante la respuesta a eventos.
+
+# ¡Gracias por visitar Plántula!
