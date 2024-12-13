@@ -438,9 +438,8 @@ figure {
 /* Contacto ------------------------------------------------------------------------*/
 .error {
     color: red;
-    /* Estilo para los mensajes de error */
-    /* font-size: 0.875em; Tamaño de fuente más pequeño   */
-    font-size: 1em;
+    font-weight: 500;
+    font-size: 1.5em;
 }
 
 .form-contacto {
@@ -448,7 +447,7 @@ figure {
     grid-template-columns: 20% 1fr 20%;
     grid-template-rows: 45px 60px repeat(3, 80px) 45px 200px 80px;
     margin: 2em 4em;
-    gap: 1em;
+    gap: 1.5em;
 }
 
 .titulo-contacto {
@@ -1109,6 +1108,13 @@ input {
     /* Fin de responsive-Productos */
 
     /* res-Contacto ------------------------------------------------------------------------*/
+    .error {
+        color: red;
+        font-weight: 500;
+        font-size: 1.2em;
+    }
+
+
 
     .form-contacto {
         display: grid;
@@ -1746,6 +1752,12 @@ input {
     /* Fin de responsive-Productos */
 
     /* res-Contacto ------------------------------------------------------------------------*/
+    .error {
+        color: red;
+        font-weight: 500;
+        font-size: 1.1em;
+    }
+
 
     .form-contacto {
         display: grid;
@@ -2396,6 +2408,12 @@ input {
     /* Fin de responsive-Product
 
     /* res-Contacto ------------------------------------------------------------------------*/
+
+    .error {
+        color: red;
+        font-weight: 500;
+        font-size: 1em;
+    }
 
     .form-contacto {
         display: grid;
